@@ -1,5 +1,7 @@
-cmd.cs -- This file handles command line interface.
+pulled from private repository, need to reorganize some things.
 
+
+cmd.cs -- This file handles command line interface.
 
 conv.cs -- This file is the backbone of the conversion process.
 It contains the functionality that extracts the individual images from the dicom files.
